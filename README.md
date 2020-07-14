@@ -37,6 +37,6 @@ https://www.linkedin.com/in/stephenshorton
 
 Currently working on:
 - 2 React websites (ecommerce, portfolio): (Not Hosted Yet) No link, (Prototype) [Link](https://arkanghellrecordsportfolio.netlify.app/)
-- Full-Stack game development (language: Lua): [&lt;Platform&gt;](https://www.roblox.com/create), [&lt;Profile&gt;](https://www.roblox.com/users/1822006/profile) (See github repos)
-- Learning ASP.NET: [&lt;Link&gt;](https://dotnet.microsoft.com/learn/aspnet/hello-world-tutorial/intro) 
-- Udemy Course for Machine Learning: [&lt;Link&gt;](https://www.udemy.com/course/machinelearning/)
+- Full-Stack game development (language: Lua): [Platform](https://www.roblox.com/create), [Profile](https://www.roblox.com/users/1822006/profile) (See github repos)
+- Learning ASP.NET: [Link](https://dotnet.microsoft.com/learn/aspnet/hello-world-tutorial/intro) 
+- Udemy Course for Machine Learning: [Link](https://www.udemy.com/course/machinelearning/)
