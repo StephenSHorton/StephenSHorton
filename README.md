@@ -32,11 +32,10 @@ Contact me!
 - (805)585-0450
 - 4stephenhorton@gmail.com
 
-Resume and experience found here:
-https://www.linkedin.com/in/stephenshorton
+Resume and experience found [here](https://www.linkedin.com/in/stephenshorton).
 
 Currently working on:
-- 2 React websites (ecommerce, portfolio): (Not Hosted Yet) No link, (Prototype) [Link](https://arkanghellrecordsportfolio.netlify.app/)
-- Full-Stack game development (language: Lua): [Platform](https://www.roblox.com/create), [Profile](https://www.roblox.com/users/1822006/profile) (See github repos)
-- Learning ASP.NET: [Link](https://dotnet.microsoft.com/learn/aspnet/hello-world-tutorial/intro) 
-- Udemy Course for Machine Learning: [Link](https://www.udemy.com/course/machinelearning/)
+- 2 React websites ( (Not hosted) Ecommerce, [portfolio](https://arkanghellrecordsportfolio.netlify.app/))
+- Full-Stack game development (See github repos)(language: Lua): [Platform](https://www.roblox.com/create), [Profile](https://www.roblox.com/users/1822006/profile)
+- Learning [ASP.NET](https://dotnet.microsoft.com/learn/aspnet/hello-world-tutorial/intro)  
+- Udemy [Course](https://www.udemy.com/course/machinelearning/) for Machine Learning
