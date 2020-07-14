@@ -34,3 +34,9 @@ Contact me!
 
 Resume and experience found here:
 https://www.linkedin.com/in/stephenshorton
+
+Currently working on:
+- 2 React websites (ecommerce, portfolio): (Not Hosted Yet)ecommerce site,(Prototype)https://arkanghellrecordsportfolio.netlify.app/
+- Full-Stack game development (language: Lua): https://www.roblox.com/create
+- Learning ASP.NET: https://dotnet.microsoft.com/learn/aspnet/hello-world-tutorial/intro
+- Udemy Course for Machine Learning: https://www.udemy.com/course/machinelearning/
