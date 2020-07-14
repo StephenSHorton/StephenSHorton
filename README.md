@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hey!
 
 My name is Stephen Horton. I'm a junior developer looking for a GREAT place to start my career! Here's what you'll love about me:
 
