@@ -19,12 +19,12 @@ My name is Stephen Horton. I'm a junior developer looking for a GREAT place to s
 
 - I am an expert in javascript
 - I love building websites using React
-- I learn things quickly, even faster if they interest me
+- I learn things quickly
 - I aspire to be a project manager
 - Code is art
 - Roadblocks are stepping stones
 
-As a junior developer it's fun to explore what kinds of things a software engineer is capable of. My favorite hobby is building games! And I've built [experiences](https://www.roblox.com/games/2057709189/Shrink-Grow-SIMULATOR#!/about) that leave people coming back again and again. I'm passionate about innovative technology. I'm interested in Machine Learning and Data Science. I have excellent customer service and communication skills. As well as fluency in Spanish. I'm used to dynamic problem solving and solution driven development as well as being consistently recognized for performing under little supervision and keeping a professional attitude.
+My favorite hobby is building games! And I've built [experiences](https://www.roblox.com/games/2057709189/Shrink-Grow-SIMULATOR#!/about) that leave people coming back again and again. I'm passionate about innovative technology. I'm interested in Machine Learning and Data Science. I have excellent customer service and communication skills. As well as fluency in Spanish. I'm used to dynamic problem solving and solution driven development as well as being consistently recognized for performing under little supervision and keeping a professional attitude.
 
 I'm Stephen Horton and I'm here to make my dreams come true as a software engineer.
 
