@@ -26,6 +26,8 @@ My name is Stephen Horton. I'm a software engineer looking for a long term job. 
 
 My favorite hobby is building games! And I've built [experiences](https://www.roblox.com/games/2057709189/Shrink-Grow-SIMULATOR#!/about) that leave people coming back again and again. I'm passionate about innovative technology. I'm interested in Machine Learning and Data Science. I have excellent customer service and communication skills. As well as fluency in Spanish. I'm used to dynamic problem solving and solution driven development as well as being consistently recognized for performing under little supervision and keeping a professional attitude.
 
+Portfolio [here](https://stephen-horton-portfolio.web.app/)
+
 Contact me!
 - (805)585-0450
 - 4stephenhorton@gmail.com
