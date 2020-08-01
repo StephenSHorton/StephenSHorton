@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Stephen Horton. I'm a junior developer looking for a GREAT place to start my career! Here's what you'll love about me:
+My name is Stephen Horton. I'm a software engineer looking for a long term job. Here's what you'll love about me:
 
 - I am an expert in javascript
 - I love building websites using React
