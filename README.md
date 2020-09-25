@@ -34,8 +34,4 @@ Contact me!
 
 Resume and experience found [here](https://www.linkedin.com/in/stephenshorton).
 
-Currently working on:
-- 2 React websites 1. (Not hosted) Ecommerce, 2. [portfolio](https://arkanghellrecordsportfolio.netlify.app/)
-- Full-Stack game development (See github repos)(language: Lua): [Platform](https://www.roblox.com/create), [Profile](https://www.roblox.com/users/1822006/profile)
-- Learning [ASP.NET](https://dotnet.microsoft.com/learn/aspnet/hello-world-tutorial/intro)  
-- Udemy [Course](https://www.udemy.com/course/machinelearning/) for Machine Learning
+Currently with: [hihome](https://www.gohihome.com/)!
