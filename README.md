@@ -33,5 +33,3 @@ Contact me!
 - 4stephenhorton@gmail.com
 
 Resume and experience found [here](https://www.linkedin.com/in/stephenshorton).
-
-Currently with [Agility Digital](https://agilityads.com/)
