@@ -34,4 +34,4 @@ Contact me!
 
 Resume and experience found [here](https://www.linkedin.com/in/stephenshorton).
 
-Currently with [Agility Digital](https://agilityads.com/)!
+Currently with [Agility Digital](https://agilityads.com/)
