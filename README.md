@@ -1,3 +1,5 @@
+### "Find something you love to do, and do it."
+
 ### Hi there 👋
 
 <!--
@@ -17,7 +19,7 @@ Here are some ideas to get you started:
 
 My name is Stephen Horton. I'm a software engineer with [Agility Digital](https://www.linkedin.com/company/agility-digital/).
 
-I came from coding video games to building web applications and on to building back-end server code. I've used several technologies throughout my career. I enjoy my profession and I want to be a true App Developer one day, whether it be solo freelancing or leading a team of people. I love coding.
+I came from coding video games to building web applications and on to back-end API's. I've used several technologies throughout my career. I enjoy my profession and I aspire to be a great developer, whether it be freelancing or leading a team of people. I love coding.
 
 Contact me!
 - (805)585-0450
