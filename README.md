@@ -21,8 +21,7 @@ My name is Stephen Horton. I'm a software engineer with [Agility Digital](https:
 
 I came from coding video games to building web applications and back-end API's. I've used several technologies throughout my career. I enjoy my profession and I aspire to be a great developer, whether it be freelancing or leading a team of people. I love coding.
 
-Contact me!
-- (805)585-0450
+Contact me on LinkedIn!
 - 4stephenhorton@gmail.com
 
 Resume and experience found [here](https://www.linkedin.com/in/stephenshorton).
