@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 My name is Stephen Horton. I'm a software engineer with [Agility Digital](https://www.linkedin.com/company/agility-digital/).
 
-I came from coding video games to building web applications and back-end API's. I've used several technologies throughout my career. I enjoy my profession and I aspire to be a great developer, whether it be freelancing or leading a team of people. I love coding.
+I came from coding video games to building web applications and API's. I've used several technologies throughout my career. I enjoy my profession and I aspire to be a great developer, whether it be freelancing or leading a team of people. I love coding.
 
 Contact me on [LinkedIn](https://www.linkedin.com/in/stephenshorton)!
 - 4stephenhorton@gmail.com
