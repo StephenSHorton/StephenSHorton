@@ -1,4 +1,4 @@
-![Profile View Counter](https://komarev.com/ghpvc/?username=StephenSHorton)
+![Profile View Counter](https://komarev.com/ghpvc/?username=StephenSHorton)![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=StephenSHorton&theme=blue-green)
 
 ### "Find something you love to do, and do it."
 
