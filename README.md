@@ -1,4 +1,4 @@
-![Profile View Counter](https://komarev.com/ghpvc/?username=Your_GitHub_Username)
+![Profile View Counter](https://komarev.com/ghpvc/?username=StephenSHorton)
 
 ### "Find something you love to do, and do it."
 
