@@ -1,3 +1,5 @@
+![Profile View Counter](https://komarev.com/ghpvc/?username=Your_GitHub_Username)
+
 ### "Find something you love to do, and do it."
 
 ### Hi there 👋
