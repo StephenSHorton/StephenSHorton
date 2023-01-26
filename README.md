@@ -8,4 +8,4 @@ My name is Stephen Horton. I'm a software engineer with [Agility Digital](https:
 
 I came from coding video games to building web applications and API's. I've used several technologies throughout my career. I enjoy my profession and aspire to be a great developer.
 
-Contact me on [LinkedIn](https://www.linkedin.com/in/stephenshorton)!
+Connect with me on [LinkedIn](https://www.linkedin.com/in/stephenshorton)!
